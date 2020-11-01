@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Calc"
+		},
+		{
+			"path": "../Javascrpit_simplelearn"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Simplelearn_Dawit "
+	}
+}
